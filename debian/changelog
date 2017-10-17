@@ -1,0 +1,11 @@
+cassandra-cpp-driver (2.5.0-1) xenial; urgency=high
+
+  * Build 2.5.0 for M2OSW and Snap! Websites (snapcpp).
+
+ -- R. Douglas Barbieri <doug@dooglio.net>  Sun, 15 Oct 2017 15:00:32 -0700
+
+cassandra-cpp-driver (1.0.0-1) stable; urgency=low
+
+  * Initial release
+
+ -- Michael Penick <michael.penick@datastax.com>  Tue, 20 Jan 2015 20:20:27 -0700
